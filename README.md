@@ -1,9 +1,10 @@
 archive pw is 123
+
 <a href="https://ibb.co/7NZh88Z9"><img src="https://i.ibb.co/n8YpZZYW/photo-2025-02-10-15-42-30.jpg" alt="photo-2025-02-10-15-42-30" border="0"></a>
 
 
 # CryptoEat 3.0
-Metamask, Brave, Binance Chain, Ronin, Exodus, Atomic wallets checker
+Metamask, Brave, Binance Chain, Ronin, Exodus, Atomic wallets, phantom, trx, sui, ton checker
 
 Functionality and features:
 - Support for Metamask, Ronin Wallet, Binance Chain, Brave Wallet, Exodus desktop wallet, and Atomic desktop wallet
